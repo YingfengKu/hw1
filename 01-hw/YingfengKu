@@ -298,6 +298,6 @@ ggplot(beauty, aes(x = eval, y = beauty)) +
 
 1.  Is the relationship between the two variables  positive or negative? What does this mean in context of the data?
 
-🧶 ✅ ⬆️ *Now is a good time to commit and push your changes to GitHub with an appropriate commit message. Commit and push all changed files so that your Git pane is cleared up afterwards. Make sure that your last push to the repo comes before the deadline. You should confirm that what you committed and pushed are indeed in your repo that we will see by visiting your repo on GitHub.*
+The relationship between the two variables are positive. This mean the more beauty one professor is, the higher evaluation he/she will gain from students.
 
 [^hw-01-git-R]: Only pushing requires talking to GitHub, this is why you're asked for your password at that point.
